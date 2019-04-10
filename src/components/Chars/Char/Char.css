@@ -1,0 +1,8 @@
+.charCSS {
+  display: inline-block;
+  padding: 16px;
+  text-align: center;
+  margin: 16px;
+  border: 3px solid rgb(37, 214, 21);
+  box-shadow: 0 3px 3px rgb(219, 224, 141);
+}

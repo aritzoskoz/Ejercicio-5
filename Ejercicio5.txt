@@ -1,0 +1,13 @@
+React 5 - Profundizando en React - Ejercicio 1
+
+1.	Tomaremos el último ejercicio (Char y Validation componets) al que haremos estos pequeños cambios.
+2.	Añadir estilos diferentes tanto al párrafo que muestra el texto y el que muestra el mensaje “Texto demasiado corto o largo”, en función de la longitud mínima del texto.
+3.	Crear una hoja de estilos específica para el componente Char y utilizarla dentro de su scope.
+4.	Instalar React Developer Tools en Chrome y confirmar cómo se renombran los estilos de scope de Char.
+5.	Vamos a reorganizar el código. Crear un componente Chars que recorra el texto insertado y realice el bucle para mostrar Char. Así App importará Chars.
+6.	Organizar los componentes en carpetas, tal y como se recomienda y se hace en el ejemplo: “cmp-deep-dive--01-after-cmp-split”.
+7.	Hacer el input en un nuevo componente.
+8.	Añadir logs a métodos del ciclo de vida de Chars y Char y observadlos en la consola:
+a.	componentWillMount
+b.	render
+c.	componentDidMount
